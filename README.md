@@ -6,4 +6,4 @@ A Python script utilizing API.Bible that finds a user-specified verse
 To install, do ``pip install requests`` in a command prompt or applicable venv.
 
 # NOT FINISHED
-This project is not finished. I need access given from the team at API.Bible.
+This project is not finished. I need access given to Bibles from the team at API.Bible.
