@@ -44,12 +44,11 @@ def on_click():
 
 # Creates label for requesting verses notice
 ttk.Label(root, font=("Arial", 7), text="Unless otherwise indicated, all Scripture quotations are from the ESV® Bible "
-                                        "(The Holy Bible, English Standard Version®), \ncopyright © 2001 by Crossway, " 
+                                        "(The Holy Bible, English Standard Version®), \ncopyright © 2001 by Crossway, "
                                         "a publishing ministry of Good News Publishers. Used by permission. All "
                                         "rights reserved. \nYou may not copy or download more than 500 consecutive "
                                         "verses of the ESV Bible or more than one half of any book of the ESV "
                                         "Bible.").pack()
 ttk.Button(root, text="Ok", command=on_click).pack()
 
-if __name__ == "__main__":
-    root.mainloop()
+root.mainloop()
