@@ -19,12 +19,12 @@ The code for this project is, by no means, perfect. It is still in early beta an
 
 # How to Use
 1. Have all required libraries installed (refer to requirements.txt).
-![](https://imgur.com/KXcLrmH)
+![](images/step1?raw=true)
 2. Open main.py file.
-![](https://imgur.com/PuZhiDa)
-![](https://imgur.com/IjHwzFE)
+![](images/step2.1?raw=true)
+![](images/step2.2?raw=true)
 3. Input a verse or set of verses (i.e. John 3:16; Genesis 1:1-12).
-![](https://imgur.com/6zLn290?raw=true)
+![](images/step3?raw=true)
 4. Press the "Ok" button and a new window will pop up with the verse.
-![](https://imgur.com/xENUpSn)
+![](images/step4?raw=true)
 5. Close window, and if more verses are needed, repeat steps 3 and 4.
