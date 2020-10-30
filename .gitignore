@@ -136,3 +136,6 @@ setup.py
 /main
 /dist
 main.spec
+.idea
+venv
+__pycache__
