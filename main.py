@@ -38,13 +38,13 @@ def on_click():
     verse = json.loads(verse)
 
     # Creates a label in the window that uses the key "passages" and the 0th index of "passages" as the text
-    verse_text = ttk.Label(root2, text=verse["passages"][0], font=("Cardo", 9))
+    verse_text = Label(root2, text=verse["passages"][0], font=("Cardo", 10))
     verse_text.pack(fill="both", expand=1)
 
 
 # Creates label for requesting verses notice
 ttk.Label(root, font=("Arial", 7), text="Unless otherwise indicated, all Scripture quotations are from the ESV® Bible "
-                                        "(The Holy Bible, English Standard Version®), \ncopyright © 2001 by Crossway, "
+                                        "(The Holy Bible, English Standard Version®), \ncopyright © 2001 by Crossway, " 
                                         "a publishing ministry of Good News Publishers. Used by permission. All "
                                         "rights reserved. \nYou may not copy or download more than 500 consecutive "
                                         "verses of the ESV Bible or more than one half of any book of the ESV "
